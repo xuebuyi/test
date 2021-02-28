@@ -1,0 +1,12 @@
+top\xuebuyi\service\RoleService.class
+top\xuebuyi\service\impl\SysLogServiceImpl.class
+top\xuebuyi\service\PermissionService.class
+top\xuebuyi\service\ProductService.class
+top\xuebuyi\service\impl\OrdersServiceImpl.class
+top\xuebuyi\service\OrdersService.class
+top\xuebuyi\service\impl\RoleServiceImpl.class
+top\xuebuyi\service\UserService.class
+top\xuebuyi\service\impl\UserServiceImpl.class
+top\xuebuyi\service\SysLogService.class
+top\xuebuyi\service\impl\ProductServiceImpl.class
+top\xuebuyi\service\impl\PermissionServiceImpl.class
